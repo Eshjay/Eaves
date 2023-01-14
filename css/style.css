@@ -122,32 +122,52 @@ body{
 
 /* House info styling */
 
+.big-head{
+    font-size: 75px;
+    color: #002855;
+    font-weight: 600;
+}
+
+.prop{
+    margin-left: 50px;
+}
+
 .house{
+    margin-top: 50px;
+    margin-bottom: 30px;
     width: 480px;
-    border: 1px solid gold;
+    
 }
 
 .house-info{
     padding-left: 30px;
     padding-right: 30px;
-
+    padding-top: 50px;
+    border: 2px solid #313131;
+    border-top: none;
+    margin-top: -35px;
 }
 
 .house-head{
     color: #cc9933;
     font-size: 20px;
-    font-weight: 500px;
+    font-weight: 500;
     margin-top: 20px;
 }
-span .house-boder{
-   
-}
+
 .house-sub {
     border-top: 2px solid #1e1e1e;
+    border-bottom: 2px solid #1e1e1e;
     font-size: 24;
+    padding: 15px;
     font-weight: 600;
 }
 
 .house-btn{
-    
+    color: white;
+    padding: 10px 20px;
+    background-color: #cc9933;
+    border: 0;
+    border-radius: 9px;
+    margin-bottom: 20px;
 }
