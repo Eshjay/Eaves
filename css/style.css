@@ -190,7 +190,7 @@ nav{
 /* House info styling */
 
 .big-head{
-    font-size: 75px;
+    font-size: 9.23vh;
     color: #002855;
     font-weight: 600;
 }
@@ -206,12 +206,26 @@ nav{
     
 }
 
+.house-1{
+    margin-left: 200px;
+}
+
+.house-2{
+    margin-right: 140px;
+}
+
+.house-img{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
 .house-info{
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 50px;
     border: 2px solid #313131;
     border-top: none;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
     margin-top: -35px;
 }
 

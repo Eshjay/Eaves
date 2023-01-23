@@ -28,4 +28,27 @@
         text-shadow: 0 0 3px black;
         font-size: 12px;
     }
+
+    
+}
+
+@media (max-width: 560px){
+    .big-head{
+        font-size: 45px;
+        font-weight: 400;
+    }
+
+    .house-1{
+        margin-left: 0;
+    }
+
+    .house-2{
+        margin: auto;
+    }
+    .card-body{
+        margin: 0 auto;
+    }
+    .button-email{
+        right: 150px;
+    }
 }
