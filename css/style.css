@@ -2,7 +2,7 @@
     font-family: 'Noto Sans', sans-serif;
 }
 body{
-    background: f1fbff;
+    background: #f1fbff;
 }
 
 /* Navbar */
@@ -51,6 +51,19 @@ nav{
     color: white;
 }
 
+/* Hero section */
+.btn{
+    background-color: #cc9933;
+    color: white;
+    padding: 10px 20px;
+}
+
+.btn:hover{
+    opacity: 0.8;
+    background-color: #cc9933;
+    color: white;
+    padding: 10px 20px;
+}
 
 .section-padding{
     padding: 100px 0;
@@ -106,6 +119,10 @@ nav{
 }
 .w-100{
     height: 100vh
+}
+
+.card-service{
+    background-color: #002855;
 }
 
 .services .card-body i{
