@@ -29,7 +29,10 @@
         font-size: 12px;
     }
 
-    
+    .about-image{
+        width: 100px;
+     }
+     
 }
 
 @media (max-width: 560px){
@@ -51,6 +54,18 @@
         margin: 0 auto;
     }
     .button-email{
-        right: 150px;
+        right: 80px;
+    }
+
+    .about-image{
+        width: 100px;
+     }
+     .house-img{
+        height: 300px;
+        width: auto;
+    }
+
+    .house-info{
+        width: 326px;
     }
 }

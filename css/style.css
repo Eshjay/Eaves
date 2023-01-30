@@ -128,15 +128,19 @@ nav{
 .services .card-body i{
     font-size: 50px;
 }
+.new-card{
+    height: 500px;
+}
+
 
 .team .card-body i{
     font-size: 20px;
 }
 .portfolio .card{
-    box-shadow: 15px 15px 40px rgba(0,0,00.15);  
+    box-shadow: 15px 15px 40px rgba(0,0,0,0.15);  
 }
 .team .card{
-    box-shadow: 2px 2px 10px rgba(0,0,00.15);  
+    box-shadow: 1px 5px 5px rgba(0,0,0,0.15);  
 }
 
 /* meat our team */
@@ -166,10 +170,10 @@ nav{
         text-align: center;
     }
     .carousel-caption{
-        bottom: 125px;
+        bottom: 425px;
     }
     .carousel-caption h5{
-        font-size: 17px
+        font-size: 27px
     }
     .carousel-caption a{
         padding: 10px 15px;
@@ -177,13 +181,13 @@ nav{
     .carousel-caption p{
         width: 100%;
         line-height: 1.6;
-        font-size: 12px;
+        font-size: 17px;
     }
     .about-text{
         padding-top: 50px;
     }
     .card{
-        margin-bottom: 30px;
+        margin-bottom: 36px;
     }
 }
 
@@ -222,7 +226,7 @@ nav{
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 50px;
-    border: 2px solid #313131;
+    border: 1px solid #313131;
     border-top: none;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -237,8 +241,8 @@ nav{
 }
 
 .house-sub {
-    border-top: 2px solid #1e1e1e;
-    border-bottom: 2px solid #1e1e1e;
+    border-top: 1px solid #1e1e1e;
+    border-bottom: 1px solid #1e1e1e;
     font-size: 24;
     padding: 15px;
     font-weight: 600;
@@ -318,5 +322,17 @@ nav{
 
 /* About Page */
 .about-image{
-   
+   height: 40px;
+   width: auto;
+}
+
+.social-icons a{
+    padding: 10px;
+    font-size: 20px;
+    color:darkslateblue;
+    text-decoration: none;
+}
+
+.social-icons a:hover{
+    color: blue;
 }
