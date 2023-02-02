@@ -328,11 +328,12 @@ nav{
 
 .social-icons a{
     padding: 10px;
-    font-size: 20px;
-    color:darkslateblue;
+    font-size: 14px;
+    color:#002855;
     text-decoration: none;
 }
 
 .social-icons a:hover{
-    color: blue;
+    color: rgb(32, 32, 221);
 }
+
