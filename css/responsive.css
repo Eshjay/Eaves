@@ -48,6 +48,7 @@
     }
 
     .house{
+        
         margin-left: 0;
     }
 
@@ -70,7 +71,7 @@
      }
      .house-img{
         height: 300px;
-        width: auto;
+        width: 326px;
     }
 
     .house-info{
