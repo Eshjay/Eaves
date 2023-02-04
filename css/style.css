@@ -360,3 +360,8 @@ a:hover{
     font-size: 19px;
     line-height: 32px;
 }
+
+.card-img-top{
+    width: auto;
+    height: 250px;
+}
