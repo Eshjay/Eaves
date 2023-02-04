@@ -365,3 +365,12 @@ a:hover{
     width: auto;
     height: 250px;
 }
+
+.buy-now{
+    border: none;
+    margin-left: 100px;
+}
+
+.buy-now:onclick{
+    background-color: #002855;
+}
