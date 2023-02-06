@@ -133,6 +133,11 @@ nav{
     height: 500px;
 }
 
+.new-card-2{
+    height: 380px;
+    box-shadow: 1px 5px 5px rgba(0,0,0,0.15);  
+}
+
 .section-header p{
     font-size: 35px;
     font-weight: 400;
