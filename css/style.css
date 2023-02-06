@@ -133,6 +133,10 @@ nav{
     height: 500px;
 }
 
+.section-header p{
+    font-size: 35px;
+    font-weight: 400;
+}
 
 .team .card-body i{
     font-size: 20px;
