@@ -284,9 +284,12 @@ nav{
     animation-duration: 0.6s;
   }
 
+  footer{
+    background-color: #222d38;
+  }
+
   footer p{
     color: aliceblue;
-    background-color:#002855
   }
 
   .footer{
@@ -318,7 +321,7 @@ nav{
 
 .button-email{
     position: absolute;
-    right:330px;
+    right:390px;
     border: none;
     border-color: #cc9933;
     background-color: #cc9933;
